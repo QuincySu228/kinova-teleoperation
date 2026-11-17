@@ -101,7 +101,8 @@ This project was supported by [funding agency]. Special thanks to the team at [I
 ## License
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more information.
 
-<1--## Contact
+<!--
+## Contact
 For any questions or collaboration inquiries, please contact:
 
 Author1: [Qin.Su@uky.edu]
